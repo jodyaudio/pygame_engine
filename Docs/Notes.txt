@@ -1,0 +1,3 @@
+Tiles sheet size
+min width of 96 (6 x 16x16 tiles)
+height is variable
